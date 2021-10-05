@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Rafael and spend most of my time working on server-side Swift! I'm a core team member of the [Vapor](https://github.com/vapor/) framework, the server-side Swift Team Lead for [raywenderlich.com](https://www.raywenderlich.com) and provide consultancy and training through my company, [Broken Hands](https://www.brokenhands.io)!
+I'm Rafael and spend most of my time working on server-side Swift and making iOS apps! I'm currently working on a Los Angeles based startup called [Ultraviral] (https://github.com/rafaellevy/)
 
-You can find more about me on [my website](https://www.timc.dev) and I'm sporadically active on Twitter at [@cheapcigar](https://twitter.com/cheapcigar). If you like what I do and want to support me, you can even [sponsor me on GitHub 🎉](https://github.com/sponsors/0xTim) or [sponsor Vapor](https://github.com/sponsors/vapor)
+You can find more about me on [my website](https://www.rafaellevy.com) and I'm sporadically active on [LinkedIn](https://www.linkedin.com/in/raflev/). In addition, I created [Weather Pets] (https://github.com/rafaellevy/weatherPets-ReadMe), an iOS app that lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation. The app includes weather conditions and air quality index in real time, as well as the moon phases.
 
 If you want to get in touch, you can send me a message on Twitter or email me at srlevy1@gmail.com
 
 <!--
-**0xTim/0xTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rafaellevy/rafaellevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
