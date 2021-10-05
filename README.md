@@ -8,7 +8,7 @@ In addition, I created [Weather Pets](https://github.com/rafaellevy/weatherPets-
 If you want to get in touch, you can send an email me at srlevy1@gmail.com
 
 <p align="right">
-  <img src="githubGif.gif" alt="animated" />
+  <img src="https://github.com/rafaellevy/rafaellevy/blob/main/gitHubGif.gif" alt="animated" />
 </p>
 
 
