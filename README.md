@@ -6,12 +6,6 @@ In addition, I created [Weather Pets](https://github.com/rafaellevy/weatherPets-
 
 If you want to get in touch, you can send an email me at srlevy1@gmail.com 
 
-<img src="https://github.com/rafaellevy/rafaellevy/blob/main/githubGif.gif" alt="animated" />
-
-
-
-
-
 <!--
 **rafaellevy/rafaellevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
