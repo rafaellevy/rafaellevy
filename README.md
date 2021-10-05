@@ -6,8 +6,9 @@ You can find more about me on [my website](https://www.rafaellevy.com) and I'm s
 In addition, I created [Weather Pets](https://github.com/rafaellevy/weatherPets-ReadMe), an iOS app that lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation. The app includes weather conditions and air quality index in real time, as well as the moon phases.
 
 If you want to get in touch, you can send an email me at srlevy1@gmail.com
-p align="right">
-  <img src="githubGif.gif" alt="animated"/>
+
+<p align="right">
+  <img src="githubGif.gif" alt="animated" />
 </p>
 
 
