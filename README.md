@@ -1,4 +1,5 @@
-### Hi there 👋 <p align="right">
+### Hi there 👋 
+<p align="right">
   <img src="https://github.com/rafaellevy/rafaellevy/blob/main/githubGif.gif" alt="animated" />
 </p>
 
