@@ -4,12 +4,12 @@ I'm Rafael and spend most of my time working on server-side Swift and making iOS
 
 You can find more about me on [my website](https://www.rafaellevy.com) and I'm sporadically active on [LinkedIn](https://www.linkedin.com/in/raflev/).
 In addition, I created [Weather Pets](https://github.com/rafaellevy/weatherPets-ReadMe), an iOS app that lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation. The app includes weather conditions and air quality index in real time, as well as the moon phases.
-
-If you want to get in touch, you can send an email me at srlevy1@gmail.com
-
-<p align="center">
+<p align="right">
   <img src="https://github.com/rafaellevy/rafaellevy/blob/main/gitHubGif.gif" alt="animated" />
 </p>
+If you want to get in touch, you can send an email me at srlevy1@gmail.com
+
+
 
 
 
