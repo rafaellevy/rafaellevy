@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Rafael and I spend most of my time working on server-side Swift and making iOS apps! I'm currently working on a Los Angeles based startup called [Ultraviral](https://github.com/rafaellevy/)
+I'm Rafael and I spend most of my time studying algorithms, working on server-side Swift and making iOS apps! I'm currently working on a Los Angeles based startup called [Ultraviral](https://github.com/rafaellevy/)
 
 You can find more about me on [my website](https://www.rafaellevy.com) and I'm sporadically active on [LinkedIn](https://www.linkedin.com/in/raflev/).
 In addition, I created [Weather Pets](https://github.com/rafaellevy/weatherPets-ReadMe), an iOS app that lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation.
